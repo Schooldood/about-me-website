@@ -1,0 +1,23 @@
+h1 {
+    color: maroon;
+}
+
+h2{
+    color: firebrick;
+}
+
+body{
+    background: darkgray;
+}
+
+p {
+    color: darkslategrey;
+}
+
+li {
+    color: maroon;
+    font-style: italic;
+    list-style-type: square;
+}
+
+
