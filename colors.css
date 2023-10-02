@@ -1,13 +1,16 @@
 h1 {
     color: maroon;
+    background-image: linear-gradient(to top, blanchedalmond, burlywood);
 }
 
 h2{
     color: firebrick;
+    background-image: linear-gradient(to top, blanchedalmond, burlywood);
 }
 
 body{
-    background: darkgray;
+    background-image: linear-gradient(to right, antiquewhite, burlywood);
+
 }
 
 p {
